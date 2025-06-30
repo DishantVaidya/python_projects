@@ -1,6 +1,7 @@
 import time
 import random
 
+
 # typing test program
 # welcome message
 print("Welcome to the Typing Test!")
