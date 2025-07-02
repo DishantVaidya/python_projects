@@ -14,14 +14,14 @@ A simple Python game where you play Rock, Paper, Scissors against the computer!
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/rock-paper-scissors.git
-cd rock-paper-scissors
+git clone https://github.com/DishantVaidya/python_projects.git
+cd python_projects/rock_paper_scrissors_game
 ```
 
 2. Run the game:
 
 ```bash
-python rock_paper_scissors.py
+python index.py
 ```
 
 3. Follow the on-screen prompts to play!
