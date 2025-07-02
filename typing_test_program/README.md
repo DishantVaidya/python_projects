@@ -14,14 +14,14 @@ A fun Python app to check how fast you type—and challenge your accuracy!
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/typing-speed-test.git
-cd typing-speed-test
+git clone https://github.com/DishantVaidya/python_projects.git
+cd python_projects/typing_test_program
 ```
 
 2. Run the program:
 
 ```bash
-python typing_test.py
+python index.py
 ```
 
 3. Follow on-screen instructions and test your speed!
