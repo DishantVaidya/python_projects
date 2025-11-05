@@ -34,7 +34,7 @@ With a clean and simple **Tkinter GUI**, this tool helps you declutter messy fol
 1. **Clone this repository**
 
 '''bash
-git clone https://github.com/DishantVaidya/file_organizer.git
+git clone https://github.com/DishantVaidya/python_projects/smart_file_organizer.git
 cd file_organizer
 '''
 
