@@ -31,18 +31,17 @@ With a clean and simple **Tkinter GUI**, this tool helps you declutter messy fol
 
 ## ⚙️ Installation & Setup
 
-1. **Clone this repository**
+1. Clone the repo
+```bash
+git clone https://github.com/DishantVaidya/python_projects.git
+cd python_projects/smart_file_organizer
+```
 
-'''bash
-git clone https://github.com/DishantVaidya/python_projects/smart_file_organizer.git
-cd file_organizer
-'''
+2. Run the program:
 
-2. **Run the Python script**
-
-'''bash
+```bash
 python main.py
-'''
+```
 
 ## 👨‍💻 About
 
