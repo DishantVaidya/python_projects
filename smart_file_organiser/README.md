@@ -41,7 +41,7 @@ cd file_organizer
 2. **Run the Python script**
 
 '''bash
-python file_organizer.py
+python main.py
 '''
 
 ## 👨‍💻 About
