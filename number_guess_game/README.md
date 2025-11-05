@@ -26,10 +26,10 @@ python index.py
 
 3. Follow the on-screen prompts to play!
 
-## 🧑‍💻 About
+## 👨‍💻 About
 
-Made with Python to practice basic concepts like loops, conditionals, and random number generation.
-Perfect for beginners to improve logical thinking and get familiar with user input handling in Python.
+Hi, I’m **Dishant Bhaskar Vaidya** — a Python learner leveling up through practice and curiosity.  
+🎓 BSc IT Student | 🧠 AI/ML enthusiast |
 
----
+📬 [Email](mailto:dishantvaidya893@gmail.com) | 🔗 [GitHub](https://github.com/DishantVaidya) | 💼 [LinkedIn](https://www.linkedin.com/in/dishantvaidya)
 

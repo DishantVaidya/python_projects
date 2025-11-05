@@ -26,9 +26,9 @@ python index.py
 
 3. Follow on-screen instructions and test your speed!
 
-## 🧑‍💻 About
+## 👨‍💻 About
 
-Made with Python to practice coding skills...
+Hi, I’m **Dishant Bhaskar Vaidya** — a Python learner leveling up through practice and curiosity.  
+🎓 BSc IT Student | 🧠 AI/ML enthusiast |
 
----
-
+📬 [Email](mailto:dishantvaidya893@gmail.com) | 🔗 [GitHub](https://github.com/DishantVaidya) | 💼 [LinkedIn](https://www.linkedin.com/in/dishantvaidya)
