@@ -1,15 +1,15 @@
-# Rock, Paper, Scissors Game ✊✋✌️
+# Rock, Paper, Scissors Game 
 
 A simple Python game where you play Rock, Paper, Scissors against the computer!
 
-## ✨ Features
+## Features
 
 - User-friendly command-line game
 - Random computer choice each round
 - Tracks win, lose, or draw
 - Option to play multiple rounds
 
-## 🛠 How to Run
+## How to Run
 
 1. Clone this repo:
 
@@ -26,10 +26,10 @@ python index.py
 
 3. Follow the on-screen prompts to play!
 
-## 👨‍💻 About
+## About
 
 Hi, I’m **Dishant Bhaskar Vaidya** — a Python learner leveling up through practice and curiosity.  
-🎓 BSc IT Student | 🧠 AI/ML enthusiast |
+BSc IT Student | AI/ML enthusiast |
 
-📬 [Email](mailto:dishantvaidya893@gmail.com) | 🔗 [GitHub](https://github.com/DishantVaidya) | 💼 [LinkedIn](https://www.linkedin.com/in/dishantvaidya)
+[Email](mailto:dishantvaidya893@gmail.com) | [GitHub](https://github.com/DishantVaidya) | [LinkedIn](https://www.linkedin.com/in/dishantvaidya)
 
