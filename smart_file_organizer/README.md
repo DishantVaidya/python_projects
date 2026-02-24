@@ -1,4 +1,4 @@
-# 🗂️ Smart File Organizer 🧠
+# Smart File Organizer 
 
 Smart File Organizer is a **Python-based desktop app** that automatically sorts and organizes all your files into folders based on their extensions — like `jpg`, `pdf`, `mp3`, etc.  
 
@@ -6,18 +6,18 @@ With a clean and simple **Tkinter GUI**, this tool helps you declutter messy fol
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🖱️ **One-Click File Organization:** Sorts all files in the selected folder automatically  
-- 📁 **Extension-Based Sorting:** Creates subfolders for each file type (e.g., Images, Docs, Music)  
-- ⚙️ **Smart Folder Handling:** Skips already organized folders to prevent duplication  
-- 💡 **GUI Interface:** Simple, beginner-friendly Tkinter window — no command line needed  
-- 🚫 **Handles Empty Folders:** Alerts if the selected folder is empty  
-- ✅ **Error Handling:** Detects invalid paths or missing folders and shows user-friendly popups  
+- **One-Click File Organization:** Sorts all files in the selected folder automatically  
+- **Extension-Based Sorting:** Creates subfolders for each file type (e.g., Images, Docs, Music)  
+- **Smart Folder Handling:** Skips already organized folders to prevent duplication  
+- **GUI Interface:** Simple, beginner-friendly Tkinter window — no command line needed  
+- **Handles Empty Folders:** Alerts if the selected folder is empty  
+- **Error Handling:** Detects invalid paths or missing folders and shows user-friendly popups  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Module | Purpose |
 |---------|----------|
@@ -29,7 +29,7 @@ With a clean and simple **Tkinter GUI**, this tool helps you declutter messy fol
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. Clone the repo
 ```bash
@@ -43,9 +43,9 @@ cd python_projects/smart_file_organizer
 python main.py
 ```
 
-## 👨‍💻 About
+## About
 
 Hi, I’m **Dishant Bhaskar Vaidya** — a Python learner leveling up through practice and curiosity.  
-🎓 BSc IT Student | 🧠 AI/ML enthusiast |
+BSc IT Student | AI/ML enthusiast |
 
-📬 [Email](mailto:dishantvaidya893@gmail.com) | 🔗 [GitHub](https://github.com/DishantVaidya) | 💼 [LinkedIn](https://www.linkedin.com/in/dishantvaidya)
+[Email](mailto:dishantvaidya893@gmail.com) | [GitHub](https://github.com/DishantVaidya) | [LinkedIn](https://www.linkedin.com/in/dishantvaidya)
